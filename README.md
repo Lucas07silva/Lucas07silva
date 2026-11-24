@@ -110,7 +110,7 @@ Projetos práticos envolvendo infraestrutura tecnológica e soluções para ambi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas07silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas07silva&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas07silva&layout=compact&theme=tokyonight&hide_border=true" />
 
